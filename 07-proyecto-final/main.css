@@ -1,19 +1,31 @@
 @import url('https://fonts.googleapis.com/css2? family= Archivo+Narrow:wght@500 & display=swap');
- body{
-    font-family: "Archivo Narrow", sans-serif;
-    overflow-x: hidden;
- }
- #menu li > a {
-    font-size: 18px;
-    font-weight: bold;
-    color:brown ;
- }
- menu form >  button{
-    font-size: 18px;
-    font-weight: bold ;
- }
-  .carousel-inner{
+
+body {
+   font-family: "Archivo Narrow", sans-serif;
+   overflow-x: hidden;
+}
+
+#menu li>a {
+   font-size: 18px;
+   font-weight: bold;
+   color: brown;
+}
+
+menu form>button {
+   font-size: 18px;
+   font-weight: bold;
+}
+
+.carousel-inner {
    max-height: 39rem;
    max-width: 50rem;
-   
-  }
+
+}
+
+h1 {
+   text-align: center;
+
+}
+.imagen-centro{
+   text-align: center;
+}
